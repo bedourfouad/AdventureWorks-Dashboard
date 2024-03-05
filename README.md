@@ -40,10 +40,6 @@ The AdventureWorks Dashboard is a data visualization tool built to analyze key m
 3. Check the cards for monthly insights and top products.
 4. Utilize the slicer panel to filter data by year and continent.
 
-### Tooltip Screenshot:
-
-![Page1Tooltip](Dashboard_Images/Tooltip.png)
-
 ## Page 2: Geographic Insights<a name="page-2-geographic-insights"></a>
 
 ![Page2](Dashboard_Images/2.png)
